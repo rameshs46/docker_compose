@@ -1,2 +1,2 @@
-# docker_compose
+# Docker Compose
 This repo has docker compose files for installation of Jenkins, Gitlab and many more...
